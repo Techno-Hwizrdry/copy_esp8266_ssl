@@ -12,6 +12,12 @@ If you would like to keep a copy of the firmware image you parsed, provide a dis
 
 Otherwise, copy_esp8266_ssl.sh will delete it before it terminates execution.
 
+## Disclaimer
+This project is a proof of concept for testing and educational purposes.
+Use it only against your own devices!
+Please check the legal regulations in your country before using it.
+I don't take any responsibility for what you do with this program.
+
 ## Dependencies
 This script requires Python uses a python tool called [esptool](https://pypi.org/project/esptool/).  To install esptool, run the following command:
 
