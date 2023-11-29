@@ -19,6 +19,6 @@ Please check the legal regulations in your country before using it.
 I don't take any responsibility for what you do with this program.
 
 ## Dependencies
-This script requires Python uses a python tool called [esptool](https://pypi.org/project/esptool/).  To install esptool, run the following command:
+This script requires a Python tool called [esptool](https://pypi.org/project/esptool/).  To install esptool, run the following command:
 
 `pip install -r requirements.txt`
